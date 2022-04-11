@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = kerrypang15@gmail.com
+	name = kerry pang
